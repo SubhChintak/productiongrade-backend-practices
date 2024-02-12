@@ -1,0 +1,16 @@
+{
+  "name": "backend-tutorial",
+  "version": "1.0.0",
+  "description": "Production-Grade Backend Practices ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript",
+    "subhchintak"
+  ],
+  "author": "Subhajit Chakraborty",
+  "license": "ISC"
+}
